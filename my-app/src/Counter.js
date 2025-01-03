@@ -11,6 +11,6 @@ const CompletedCounter = () => {
       <h2>Выполненные задачи: {completedCount}</h2>
     </div>
   );
-};
+}; 
 
 export default CompletedCounter;
